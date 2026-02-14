@@ -18,5 +18,4 @@ ePay is a simple Flutter application designed to facilitate secure payments. It 
 
 1. Clone this repository:
 
-```bash
-git clone https://github.com/Keoratile02/ePay.git
+git clone [https://github.com/Keoratile02/ePay.git](https://keoratile02.github.io/ePay/)
